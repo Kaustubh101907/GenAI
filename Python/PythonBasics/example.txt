@@ -1,0 +1,4 @@
+This is a new line.
+This will overwrite the existing content.
+This line will be appended to the file.
+Another appended line.
